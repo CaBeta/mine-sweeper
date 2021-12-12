@@ -1,6 +1,6 @@
 const canvas = document.createElement('canvas');
-canvas.width = 900;
-canvas.height = 900;
+canvas.width = 650;
+canvas.height = 650;
 document.body.appendChild(canvas);
 const ctx = canvas.getContext('2d');
 
