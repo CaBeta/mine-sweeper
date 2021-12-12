@@ -146,7 +146,7 @@ const model = {
     /**
      * 单元格数目
      */
-    WIDTH: 28,
+    WIDTH: 21,
     x: undefined,
     y: undefined,
     board: [],
